@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593613873 source:c:\users\usuario\desktop\documents\ayed 1 c++\tp 3.2\tp3_2\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
