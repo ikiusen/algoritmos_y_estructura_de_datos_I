@@ -1,7 +1,5 @@
 #include <iostream>
-#include <string>
 #include "lista.h"
-using namespace std;
 
 void addAlumno(tLista &lista, bool &ok)
 {

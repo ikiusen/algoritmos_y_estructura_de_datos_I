@@ -1,6 +1,5 @@
 #ifndef LISTA_H_INCLUDED
 #define LISTA_H_INCLUDED
-#endif // LISTA_H_INCLUDED
 
 #include <string>
 using namespace std;
@@ -41,3 +40,11 @@ void mostrarAlumnos(tLista &lista);
 bool operator>(tAlumno opIzq, tAlumno opDer);
 
 bool operator<(tAlumno opIzq, tAlumno opDer);
+
+void ordenarLista(tLista &lista);
+
+void ordenarListaDesc(tLista &lista);
+
+#endif // LISTA_H_INCLUDED
+
+

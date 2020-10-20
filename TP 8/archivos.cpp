@@ -1,6 +1,7 @@
 #include <fstream>
 #include "archivos.h"
 
+
 void cargarArchivo(tLista &lista)
 {
     ifstream cArchivo;
