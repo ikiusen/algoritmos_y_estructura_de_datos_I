@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604706543 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\rectangulo\main.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1604706356 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\rectangulo\rectangulo.cpp
+	"Rectangulo.h"
+
+1604706276 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\rectangulo\rectangulo.h
+

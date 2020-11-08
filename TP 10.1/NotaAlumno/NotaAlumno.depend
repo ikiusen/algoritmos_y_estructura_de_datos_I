@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1604702733 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\notaalumno\main.cpp
+	<iostream>
+	<string>
+	"Alumno.h"
+
+1604702442 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\notaalumno\alumno.cpp
+	"Alumno.h"
+
+1604702366 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\notaalumno\alumno.h
+	<string>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604696185 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\precioarticulo\main.cpp
+	<iostream>
+	"include/Articulo.h"
+
+1604697096 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\precioarticulo\src\articulo.cpp
+	"Articulo.h"
+
+1604697069 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.1\precioarticulo\include\articulo.h
+
