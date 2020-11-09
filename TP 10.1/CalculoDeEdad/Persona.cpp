@@ -47,6 +47,17 @@ void Persona::Setdia(int val)
 int Persona::CalcularEdad(int anio, int mes, int dia)
 {
     int edad;
-    edad = (anio - this->anio);
+    if(this->mes < mes)
+    {
+        edad = (anio - this->anio);
+    } else
+        {
+            if(this->dia < dia)
+            {
+                edad = (anio - this->anio);
+            } else {
+                edad = (anio - this->anio) - 1;
+            }
+        }
     return edad;
 }
