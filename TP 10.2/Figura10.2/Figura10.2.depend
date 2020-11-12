@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1605216343 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\main.cpp
+	<iostream>
+	"Figura.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+
+1605216297 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\figura.cpp
+	<iostream>
+	"Figura.h"
+
+1605216163 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\figura.h
+
+1605216297 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\circulo.cpp
+	<iostream>
+	"Circulo.h"
+
+1605216163 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\circulo.h
+	"Figura.h"
+
+1605216297 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\triangulo.cpp
+	<iostream>
+	"Triangulo.h"
+
+1605216163 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\triangulo.h
+	"Figura.h"
+
+1605216268 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\cuadrado.cpp
+	<iostream>
+	"Cuadrado.h"
+
+1605216163 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp 10.2\figura10.2\cuadrado.h
+	"Figura.h"
+
