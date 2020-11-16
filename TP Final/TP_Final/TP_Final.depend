@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1605561773 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\animal.cpp
+	"Animal.h"
+
+1605560832 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\animal.h
+
+1605567700 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"Oviparo.h"
+	"Cocodrilo.h"
+	"Ganso.h"
+	"Pelicano.h"
+	"Mamifero.h"
+	"Ballena.h"
+	"Murcielago.h"
+	"Foca.h"
+
+1605561773 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\oviparo.cpp
+	"Oviparo.h"
+
+1605560818 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\oviparo.h
+	"Animal.h"
+
+1605561773 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\cocodrilo.cpp
+	"Cocodrilo.h"
+	<iostream>
+
+1605560932 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\cocodrilo.h
+	<string>
+	"Oviparo.h"
+
+1605563077 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\ganso.cpp
+	"Ganso.h"
+	<iostream>
+
+1605562223 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\ganso.h
+	<string>
+	"Oviparo.h"
+
+1605563059 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\pelicano.cpp
+	"Pelicano.h"
+	<iostream>
+
+1605562894 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\pelicano.h
+	<string>
+	"Oviparo.h"
+
+1605563330 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\mamiferos.cpp
+	"Mamiferos.h"
+
+1605563346 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\mamiferos.h
+	"Animal.h"
+
+1605563483 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\mamifero.cpp
+	"Mamifero.h"
+
+1605563483 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\mamifero.h
+	"Animal.h"
+
+1605563835 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\murcielago.cpp
+	"Murcielago.h"
+	<iostream>
+
+1605563735 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\murcielago.h
+	"Mamifero.h"
+	<string>
+
+1605564214 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\ballena.cpp
+	"Ballena.h"
+	<iostream>
+
+1605563947 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\ballena.h
+	"Mamifero.h"
+	<string>
+
+1605564749 source:c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\foca.cpp
+	"Foca.h"
+	<iostream>
+
+1605564727 c:\thiago\gits\algoritmos_y_estructura_de_datos_i\tp final\tp_final\foca.h
+	"Mamifero.h"
+	<string>
+
